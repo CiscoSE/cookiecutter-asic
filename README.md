@@ -17,12 +17,12 @@ This template was created using
 
   You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.
 
-  **NOTE:** make sure to remember what directory your in
+  **NOTE:** make sure to remember what directory you run the previous commands in
   as your new project directory will be created here.
 
 ### 2. Update your projects README with pertinent information for submission phase.
 
-  These are outlined as **TODO** items in the generated [README.md](./{{ cookiecutter.project_name }}/README.md)
+  These are outlined as **TODO** items in the generated [README.md](https://github.com/kecorbin/cookiecutter-asic/blob/master/%7B%7B%20cookiecutter.project_name%20%7D%7D/README.md)
 
   **TIP:** If you are unfamiliar with Markdown some good resources are located here:
 
