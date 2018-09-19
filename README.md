@@ -17,6 +17,27 @@ This template was created using
 
   You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.
 
+  #### Sample Output
+
+  ```
+  $ cookiecutter https://github.com/CiscoSE/cookiecutter-asic.git
+  project_name [my-awesome-python-project]: my-awesome-app
+  project_description [PoC code for doing something really awesome]:
+  author_name [John Smith]: Cisco SE
+  author_email [jsmith@company.com]: ciscose@cisco.com
+
+  $ cd my-awesome-app
+  $ tree
+  tree
+  .
+  ├── AUTHORS.md
+  ├── CODE_OF_CONDUCT.md
+  ├── CONTRIBUTING.md
+  ├── LICENSE
+  └── README.md
+
+  ```
+
   **NOTE:** make sure to remember what directory you run the previous commands in
   as your new project directory will be created here.
 
