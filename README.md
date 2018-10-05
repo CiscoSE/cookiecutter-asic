@@ -43,6 +43,8 @@ This template was created using
 
 ### 2. Update your projects README with pertinent information for submission phase.
 
+Update the business / technical challenes that you are trying to address in 1-3 paragraphs, as well as a few paragraphs on your proposed solution, and the applicable technologies involved. 
+
   These are outlined as **TODO** items in the generated [README.md](https://github.com/kecorbin/cookiecutter-asic/blob/master/%7B%7B%20cookiecutter.project_name%20%7D%7D/README.md)
 
   **TIP:** If you are unfamiliar with Markdown some good resources are located here:
